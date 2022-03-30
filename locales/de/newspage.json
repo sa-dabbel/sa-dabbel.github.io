@@ -1,0 +1,63 @@
+{
+    "hero": {
+        "heading": "Nachrichten und Veranstaltungen",
+        "subtext": "Was wird über DABBEL gesagt?",
+        "text": "Lesen Sie die neuesten Geschichten über DABBEL und sein unglaubliches KI-Gebäudemanagementsystem.",
+        "cta": "Kommende Veranstaltungen",
+        "h1": "Innovationspreis für intelligente Gebäudesteuerung",
+        "h2": "GELSENWASSER und DABBEL schließen einen Kooperationsvertrag",
+        "h3": "Tech Crunch: Dabbel erhält 4,4 Mio. $ für CO₂-Reduzierung durch Automatisierung der HLK-Steuerung in Gewerbegebäuden",
+        "h4": "Sense: Wir haben uns mit DABBEL zusammengeschlossen, um gemeinsam die Klimakrise zu bekämpfen",
+        "h5": "Immobilien Zeitung: AI übernimmt den Heizungsraum"
+    },
+    "stories": {
+        "heading": "Artikel",
+        "subtext": "Neueste Geschichten",
+        "h1": "Wie sich die DABBEL AI-Software mit den Gebäuden verbindet",
+        "h2": "Checkliste für den Einsatz von AI im Gebäudemanagement",
+        "h3": "DABBEL und VINCI Facilities Germany erzielen gemeinsam 30% CO₂-Einsparung durch intelligente Softwarelösung in Gebäuden"
+    },
+    "news": {
+        "heading": "Presse",
+        "subtext": "DABBEL in den Nachrichten",
+        "read": "Mehr lesen",
+        "h1": "Immobilien Zeitung: KI übernimmt den Heizungsraum",
+        "h2": "Realasset Insight: Die Ökologisierung des Bestandes sollte oberste Priorität haben",
+        "h3": "Main Incubator: PropTech Start Up DABBEL sammelt 3,6 Millionen Euro in einer Finanzierungsrunde ein",
+        "h4": "Finanzwelt: Mit künstlicher Intelligenz das Gebäudeportfolio klimafit machen",
+        "h5": "Enechange Insight: Wir stellen vor: unsere zweite Kohorte 2021"
+    },
+    "pressFaq": {
+        "one": {
+            "q": "Wofür steht DABBEL?",
+            "a1": "Der Klimawandel geht uns alle an. Um ihn zu bekämpfen, hat es sich DABBEL zur Aufgabe gemacht, die skalierbarste, kosteneffizienteste und nachhaltigste softwarebasierte Gebäudeautomation zu entwickeln und sie so schnell wie möglich in vielen kommerziellen Gebäuden weltweit einzusetzen. Unser System ist intelligent; es wurde entworfen, um Kosten zu senken, Energie zu sparen und den Komfort für die Bewohner zu erhöhen, im Vergleich zu herkömmlichen Systemen. Dies ist die Gebäudeleittechnik (BMS) der Zukunft."
+        },
+        "two": {
+            "q": "Was unterscheidet DABBEL von der Konkurrenz?",
+            "a1": "Unser Geschäftsmodell basiert auf Vertrauen und Effizienz. Unser Software-Add-On kann ohne Vorabkosten aus der Ferne installiert werden, ist in weniger als einer Woche einsatzbereit und kann monatlich gekündigt werden. Die kurze Implementierungszeit in Verbindung mit den höchsten technologischen Ansprüchen und einem Einsparpotenzial von bis zu 40 % führt dazu, dass sich die Investition in unsere Software bereits im ersten Monat auszahlt. Darüber hinaus werden Kunden monatlich über die eingesparten CO₂-Emissionen informiert.",
+            "a2": "Zudem entfallen Installations- und Wartungskosten zusätzlicher Hardware in den Gebäuden komplett, da das Software-Add-On eine Cloud-basierte Lösung ist, die vollständig ferngesteuert arbeitet. Einzige Voraussetzungen seitens des Kunden sind ein Internetanschluss, Zugriff auf das Hauptkommunikationsprotokoll des Gebäudes und eine VPN-Verbindung.",
+            "a3": "Einmal implementiert, funktioniert unsere Software ohne weiteren Aufwand für den Kunden. Die eingesetzte künstliche Intelligenz – DABBY – ist selbstlernend und passt sich eigenständig an die Thermodynamik des Gebäudes, sowie an das Verhalten der Personen im Gebäude an. Software-Updates finden zentralisiert statt.",
+            "a4": "Die größte Hürde bei der Inanspruchnahme von Lösungen zur Steigerung der Energieeffizienz von gewerblichen Gebäuden liegt in hohen Vorabinvestitionen, einer langen Implementierungsphase, langen Vertragsbindungen und wenig Planungssicherheit. Genau hier setzen wir an."
+        },
+        "three": {
+            "q": "In welche strategische Richtung soll sich das Unternehmen entwickeln?",
+            "a1": "Think global, act local – langfristig soll unsere Software weltweit genutzt werden. Momentan sind wir hauptsächlich in der DACH-Region sowie in Großbritannien vertreten. Daneben haben wir bereits Kunden in den USA, Australien, Neuseeland und China. Wir setzen uns keine Grenzen, da die Reduzierung von CO₂-Emissionen im Gebäudesektor uns allen zugutekommt.",
+            "a2": "Bereits jetzt stellt unsere Technologie für unsere Kunden eine Win-Win-Win-Situation dar. Mit unserer Software ermöglichen wir ihnen Geld zu sparen, das sie wiederum sinnvoll einsetzen können und wir helfen ihnen dabei, ihren ökologischen Fußabdruck zu verringern. Durch den Remote-Implementierungsprozess ist es problemlos möglich, neben einzelnen Gebäuden auch einen kompletten (Portfolio-)Bestand an Gebäuden überall auf der Welt zu optimieren, beginnend mit den Objekten, die bereits über eine Gebäudeleittechnik (GLT) verfügen.",
+            "a3": "Was ist mit dem Rest der Gebäude? Es gibt Gebäude, die das Potenzial der bereits vorhandenen Technologie nur begrenzt nutzen können. Um dies zu verdeutlichen: 70 % der Variablen, die ein Gebäude erzeugt, werden nicht erkannt, nicht einmal von den Gebäudeleitsystemen. Abgesehen von dem verschenkten Potenzial sprechen wir mit Gebäudeeigentümern über die Optimierung ihrer Gebäude, um Ineffizienzen zu beseitigen, indem wir sie mit Partnern aus der Industrie zusammenbringen. Ziel ist es, ein Ökosystem der Gebäudeoptimierung zu schaffen, das gemeinsam gegen den Klimawandel vorgeht.",
+            "a4": "Im Ergebnis wird es möglich sein, mithilfe der analysierten Daten, den Energiebedarf eines kompletten Gebäudebestands vorherzusagen, was für Verhandlungen mit Energieversorgern von unschätzbarem Wert sein wird."
+        },
+        "four": {
+            "q": "Warum ist solch ein System nicht bereits Standard?",
+            "a1": "Hier kommen zwei Faktoren ins Spiel: Der Klimawandel und die Energiepreise. Bis vor wenigen Jahren waren das keine großen Themen. Energie war außerordentlich günstig und der Klimawandel wurde als ein eher langfristiges Problem wahrgenommen. Diese Sichtweise hat sich deutlich geändert. Wir haben erkannt, dass uns in Bezug auf den Klimawandel nicht mehr viel Zeit bleibt. Die Zeit zu handeln ist jetzt.",
+            "a2": "Doch über die vergangenen Jahrzehnte hat sich die Gebäudeautomatisierung nicht deutlich weiterentwickelt. Zwar wird heutzutage nicht mehr alles per Hand geregelt (z. B. die Heizung zu- und aufdrehen), sondern in größeren Blöcken, vielleicht sogar über eine Gebäudeleittechnik. Doch, wenn etwas funktioniert und sich die äußeren Umstände nicht dramatisch verändern, so wie jetzt, besteht keine Notwendigkeit an den bestehenden Systemen etwas zu ändern. Am Markt gibt es ein paar wenige Anbieter, mit deren Systemen Gebäude weltweit gemanagt werden, und die mit ihrer Technologie auch profitabel sind.  Doch ihr eigenes Geschäftsmodell macht es ihnen unmöglich flexibel auf Änderungen zu reagieren. Wir haben das erkannt und optimieren bestehende Lösungen, die zwar funktionieren, aber nicht effizient genug sind, um jetzt CO₂-Emissionen einzusparen."
+        },
+        "five": {
+            "q": "Wie viele Kunden hat DABBEL?",
+            "a1": "Wir denken nicht in der Anzahl unserer Kunden, sondern in Quadratmetern, die durch unsere Software gesteuert werden. Anfang 2021 haben wir 70.000 Quadratmeter verwaltet. Nur zwölf Monate später sind es knapp eine Million Quadratmeter. Bis Ende 2022 wollen wir fünf Millionen Quadratmeter verwalten."
+        },
+        "six": {
+            "q": "Wie viele Mitarbeiter hat DABBEL?",
+            "a1": "Momentan sind wir 20 Mitarbeiter. Die Hälfte von uns sind Ingenieure und Softwareentwickler. Die andere Hälfte kümmert sich um Marketing und Vertrieb. Im Jahr 2022 soll sich die Zahl in etwa verdoppeln."
+        }
+    }
+}

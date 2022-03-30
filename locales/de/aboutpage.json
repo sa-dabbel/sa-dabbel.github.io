@@ -1,0 +1,29 @@
+{
+    "hero": {
+        "heading": "Unsere Geschichte",
+        "subtext": "Über DABBEL",
+        "text": "DABBEL ist ein globales Unternehmen, das es sich zur Aufgabe gemacht hat, die CO₂-Emissionen in gewerblichen Gebäuden weltweit drastisch zu reduzieren.",
+        "cta": "Kontakt",
+        "numTxt1": "Durchschnittliche Betriebsprobleme reduziert",
+        "numTxt2": "Durchschnittlich eingesparte Energie",
+        "numTxt3": "Durchschnittliche Anomalien verringert"
+    },
+    "story": {
+        "heading": "Unsere Geschichte",
+        "subtext": "DABBELs Ursprünge",
+        "text": "Gebäude sind für etwa 40 % der jährlichen globalen CO₂-Emissionen verantwortlich, und es wird erwartet, dass sich dieser Anteil bis 2050 verdoppelt. Unser Ziel ist es, die Auswirkungen der globalen Erwärmung zu verlangsamen, indem wir unnötige CO₂-Emissionen reduzieren und so eine gesündere Zukunft für uns und künftige Generationen schaffen."
+    },
+    "values": {
+        "heading": "Unsere Werte",
+        "subtext": "Grundlegende Prinzipien",
+        "one": "DABBEL wurde für Menschen geschaffen. Es ist nicht nur ein Algorithmus zur Reduzierung der Energie in Gebäuden. Ohne Menschen brauchen Gebäude keine Systeme.",
+        "two": "Das Unternehmen wurde durch einen iterativen Verbesserungsprozess geboren und gedeiht weiterhin.",
+        "three": "Wir sind aufmerksame Zuhörer. Wir glauben, dass unsere Mitarbeiter und Kunden eine wesentliche Rolle bei der Erweiterung unseres Know-hows und der Verbesserung von DABBEL spielen.",
+        "four": "Wir haben es uns zur Aufgabe gemacht, unnötige CO₂-Emissionen so weit wie möglich zu reduzieren, angefangen bei unseren eigenen."
+    },
+    "founders": {
+        "heading": "Unsere Gründer",
+        "subtext": "Die drei Ingenieure",
+        "linkedin": "LinkedIn-Profil besuchen"
+    }
+}

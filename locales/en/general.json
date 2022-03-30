@@ -1,0 +1,88 @@
+{
+    "menu": {
+        "solution": "Solution",
+        "stories": "Success stories",
+        "about": "About us",
+        "news": "News",
+        "contact": "Contact",
+        "partners": "Partners",
+        "careers": "Careers",
+        "privacy": "Privacy policy",
+        "imprint": "Imprint"
+    },
+    "headings": {
+        "testimonials": "Testimonials",
+        "feedback": "Client Feedback",
+        "cases": "Use Cases",
+        "featuredStories": "Featured Success Stories",
+        "awards": "Our Awards",
+        "partners": "Our Partners",
+        "events": "Upcoming Events",
+        "happening": "See whats happening",
+        "recentNews": "Recent news",
+        "featuredArticles": "Featured Articles",
+        "technology": "The technology",
+        "aiBoost": "AI boost for your buildings",
+        "dataToDash": "Data to dashboard",
+        "howItWorks": "How it works",
+        "product": "The product",
+        "dabbelDash": "DABBEL dashboard"
+    },
+    "buttons": {
+        "downloadCase": "Download case study",
+        "readMore": "Read more",
+        "learn": "Learn more",
+        "getStarted": "Get started",
+        "requestQuote": "Request a quote",
+        "viewOptions": "View options",
+        "contact": "Contact us",
+        "findOut": "Find out more",
+        "send": "Send"
+    },
+    "infoGraph": {
+        "percSave": "Energy saved",
+        "kwh": "kWh saved",
+        "co2": "CO₂ avoided",
+        "mwh": "MWh saved"
+    },
+    "map": {
+        "heading": "Global partners",
+        "subtext": "DABBEL in the world",
+        "desc": "DABBEL is a global company with a mission to develop the most scalable, cost effiecient, and sustainable software solution to drastically reduce CO₂ emissions in commercial buildings worldwide as fast as possible."
+    },
+    "contactText": "Ask us anything. We're here to help. If you can't find the answer you're looking for,",
+    "footer": {
+        "heading1": "Join the club",
+        "subtext1": "Step into the future with DABBEL",
+        "cta1": "Become a partner",
+        "heading2": "Subscribe to our email newsletter",
+        "subtext2": "Stay informed on upcoming events and latest updates",
+        "cta2": "Stay connected",
+        "placeholder": "Where to find us"
+    },
+    "form": {
+        "heading": "Getting started",
+        "subtext": "Start your process now",
+        "fname": "First name",
+        "lname": "Last name",
+        "email": "Email",
+        "company": "Company",
+        "building": "Building type",
+        "b1": "Offices",
+        "b2": "Schools",
+        "b3": "Hotels",
+        "b4": "Other",
+        "interest": "Interested in",
+        "i1": "Energy efficieny",
+        "i2": "Reduction of Carbon emissions",
+        "i3": "Operating costs",
+        "i4": "Other",
+        "addComment": "Add a comment",
+        "privacy": "I accept the Privacy Policy",
+        "heading2": "Take DABBEL for a spin",
+        "subtext2": "See how DABBEL AI solves building management issues with ease, lowers costs, all while keeping CO₂ levels at a minimum and tenants comfortable."
+    },
+    "viewProject": "View project",
+    "downloadCase": "Download case study",
+    "visitLinkedin": "Visit LinkedIn profile"  
+}

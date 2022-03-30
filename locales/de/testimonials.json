@@ -1,0 +1,27 @@
+{
+    "one": {
+        "name": "Alexander Woolf",
+        "post": "Strategie Direktor",
+        "text": "“Für Romulus ist es wichtig, dass wir unseren Mietern, ihren Mitarbeitern und allen Besuchern unserer Gebäude ein erstklassiges Erlebnis bieten und gleichzeitig dazu beizutragen, den Energieverbrauch und unseren CO₂-Fußabdruck zu reduzieren. Mit Hilfe der KI-Softwarelösung von DABBEL sind wir in der Lage, den Komfort zu 100 % aufrechtzuerhalten und gleichzeitig durchschnittlich 26 % des HLK-Energieverbrauchs in unserem Gebäude in der 30 Cannon Street in London einzusparen.”"
+    },
+    "two": {
+        "name": "Holger Hosang",
+        "post": "Geschäftsführender Partner",
+        "text": "“Sonar Real Estate handelt nachhaltig und leistet damit einen Beitrag zur Erreichung der EU-Umweltziele. Beispielsweise haben wir durch den Einsatz der KI-Software von DABBEL im von uns als Asset Manager betreuten Bürogebäude 'Quadra' in Frankfurt seit Juni 2021 die Energiekosten für Heizung, Lüftung, Klimatechnik um rund 28 % reduziert. Zusätzlich wurden 2,7t an CO”"
+    },
+    "three": {
+        "name": "Stefan Rütimann",
+        "post": "Leiter der Abteilung Corporate Facility & Real Estate Management",
+        "text": "“Gesundheit, Umwelt und nachhaltige Lösungen sind ein wichtiger Bestandteil unserer Zurzach-Care-Gruppe. Um das Wohlbefinden unserer Patienten zu steigern und gleichzeitig den Energieverbrauch in unseren Gebäuden zu senken, sind wir auf die Firma DABBEL aufmerksam geworden. Dank der dynamischen Steuerung unserer Energieanlagen konnten wir den Verbrauch nach nur einem Monat um bis zu 20% senken. Damit sparen wir nicht nur Geld, sondern machen auch einen wichtigen Schritt in Richtung Nachhaltigkeit.”"
+    },
+    "four": {
+        "name": "Christian Ochßner",
+        "post": "Leiterin der Abteilung Gebäudetechnik",
+        "text": "“Dank der dynamischen Steuerung unserer Energiesysteme konnten wir den Verbrauch bereits nach einem Monat um bis zu 20 % senken. Aufgrund der erzielten Ergebnisse, ist diese Art von Technologie bereits für zwei bis drei weitere Standorte vorgesehen. Bis 2022 dürften in Deutschland 80 weitere Gebäude damit ausgestattet sein”"
+      },
+    "five": {
+        "name": "Frank Schimmel",
+        "post": "Projektleiter",
+        "text": "“Dank der KI-Lösung von DABBEL konnten wir unseren Energieverbrauch und CO₂-Emissionen für beide Gebäude zwischen 22 % und 35 % reduzieren. Das entspricht voll unserem Anspruch als Umweltunternehmen. Wir verfolgen Klimaziele mit unseren eigenen Liegenschaften, aber auch mit unserem Dienstleistungsangebot für unsere Kunden im Bereich der Gebäude- und Energieautomation.”"
+    }
+}

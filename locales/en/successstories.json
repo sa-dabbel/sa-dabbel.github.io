@@ -1,0 +1,27 @@
+{
+    "storyList": {
+        "heading": "Use cases",
+        "subtext": "Success stories"
+    },
+    "placeholder": "After DABBEL’s AI integration, the building’s energy consumption and overall cost significantly fell. Along with a lower carbon footprint, the building had a healthier indoor environment.",
+    "one": {
+        "title": "VINCI Facilities - School Bergneustadt",
+        "details": "This project had two important factors: first, energy reduction to meet the clients goals of a carbon neutral future; second, lowering indoor CO₂ levels to create a healthier environment for students and staff."
+    },
+    "two": {
+        "title": "Romulus - 30 Cannon Street",
+        "details": "Tradition meets modernity. As a member of the National Heritage of England, 30 Cannon Street in London now boasts DABBEL’s AI building management system, making it environmentally sustainable." 
+    },
+    "three": {
+        "title": "Sonar Real Estate - Quadra",
+        "details": "Aiming to contribute to the European Union’s climate goals, Sonar Real Estate has reduced CO₂ emissions using DABBEL’s AI building management system. The building, with no new hardware, was able to reduce energy costs by 28%, saving nearly three tons of carbon emissions."
+    },
+    "four": {
+        "title": "ZURZACH Care AG - Reha Clinic",
+        "details": "Voted one of the top 10 digital real estate projects in Switzerland, the joint project with Zurzach Care AG at the Reha Clinic Bad Zurzach has increased the well-being of patients while reducing energy consumption and costs. "
+    },
+    "five": {
+        "title": "Gelsenwasser AG - White House",
+        "details": "DABBEL AI has assisted Gelsenwasser AG, an environmentally conscious company, to reduce the energy consumption in two of their buildings, moving their operational aspirations inline with their sustainability conviction. "
+    }
+}

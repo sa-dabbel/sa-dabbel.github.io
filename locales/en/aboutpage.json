@@ -1,0 +1,29 @@
+{
+    "hero": {
+        "heading": "Our story",
+        "subtext": "About DABBEL",
+        "text": "DABBEL is a global company with a mission to drastically reduce CO₂ emissions in commercial buildings worldwide.",
+        "cta": "Contact us",
+        "numTxt1": "Average operation problems reduced",
+        "numTxt2": "Average energy saved",
+        "numTxt3": "Average anomalies decreased"
+    },
+    "story": {
+        "heading": "Our story",
+        "subtext": "DABBEL's origins",
+        "text": "Buildings are responsible for producing about 40% of annual global CO₂ emissions and this is expected to double by 2050. Our mission is to slow the impact of global warming by decreasing unnecessary CO₂ emissions, creating a healthier future for us and for future generations to come."
+    },
+    "values": {
+        "heading": "Our values",
+        "subtext": "Core principals",
+        "one": "DABBEL was created for people. It is not just an algorithm to reduce the energy in buildings. Without people, buildings do not need systems.",
+        "two": "The company was born and continues to thrive through an iterative improvement process.",
+        "three": "We are responsive listeners. We believe our employees and customers play an essential role in increasing our know-how and improving DABBEL.",
+        "four": "We have made it our mission to continue decreasing unnecessary CO₂ emissions whenever possile starting with our own."
+    },
+    "founders": {
+        "heading": "Our founders",
+        "subtext": "The Three Engineers",
+        "linkedin": "Visit LinkedIn profile"
+    }
+}

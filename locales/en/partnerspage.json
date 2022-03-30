@@ -1,0 +1,34 @@
+{
+    "hero": {
+        "heading": "Clients & partners",
+        "subtext": "Join our Global Partner Program",
+        "text": "DABBEL is committed to reducing carbon emissions in buildings worldwide. We have partnered with organizations in the real estate industry who share our goals of a carbon-neutral, sustainable future.",
+        "cta": "Join now"
+    },
+    "pageDesc": {
+        "heading": "Climate leaders program",
+        "subtext": "DABBEL offers a frictionless software solution in commercial buildings worldwide. Thanks to our global climate leaders, who are proactively contributing to a carbon-neutral future in the real estate industry, we are able to deliver a positive result in less than 4 weeks and help our clients reach ESG goal in the most scalable way. Join us in shaping a sustainable future together."
+    },
+    "benefits": {
+        "heading": "The benefits",
+        "subtext": "Why partner with DABBEL?",
+        "q1": "More Possibilities",
+        "a1": "There is a possibility to interact with your solution through an open API. It will not only create an additional revenue stream but also offer upselling opportunities.",
+        "q2": "Go Above & Beyond",
+        "a2": "Provide the ultimate comfort to your clients & tenants while we take care of the installation. This will make you stand out from the competitors.",
+        "q3": "Greater Cause",
+        "a3": "Collaborate with us to reduce CO₂ emissions and reach your environmental goals in the most scalable way."
+    },
+    "definitions": {
+        "heading": "Our partnerships",
+        "q1": "Technology partner",
+        "a1": "A technology partner such as proptechs offers our solution as an add-on to their software service and makes use of the data that DABBEL AI delivers. Our technology partner installs solutions by the mutual agreement of DABBEL and clients.",
+        "q2": "Licensed reseller",
+        "a2": "A licensed reseller provides our solution to their customers. They possess a large client base who own or manage commercial buildings in their portfolios. Our licensed reseller manages the sales process while the implementation is carried out by DABBEL.",
+        "q3": "Installation partner",
+        "a3": "An installation partner manufactures and distributes hardware and software solutions to transform commercial buildings to meet the requirements for the implementation of DABBEL AI. The sales process will be managed by DABBEL and the partner will implement on site.",
+        "q4": "Referral partner",
+        "a4": "A referral partner connects us with customers who possess large commercial buildings in their portfolios. The sales process and the implementation will be managed by DABBEL."
+    },
+    "placeholder": "Want to see DABBEL in action? Discover how DABBEL's AI sustainable software improves building management systems and performance through a walkthrough of the DABBEL dashboard."
+}

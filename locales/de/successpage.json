@@ -1,0 +1,21 @@
+{
+    "hero": {
+        "heading": "Erfolgsgeschichten",
+        "subtext": "Unsere Projekte",
+        "text": "Überzeugen Sie sich selbst von den Gebäuden, die wir intelligenter und nachhaltiger für die Zukunft gemacht haben.",
+        "cta": "Kontakt"
+    },
+    "storyList": {
+        "heading": "Anwendungsfälle",
+        "subtext": "Erfolgsgeschichten"
+    },
+    "placeholder": "Wir haben es uns zur Aufgabe gemacht, umweltfreundlichere und intelligentere Gebäude zu schaffen. Entdecken Sie, wie unsere KI-gesteuerte Software die Energieeffizienz, die Verwaltungssysteme und die Leistung von Gebäuden weltweit verbessert.",
+    "rights": {
+        "1": "Verantwortlich: DABBEL - Automation Intelligence GmbH",
+        "2": "Zweck: Beantwortung Ihrer Informationsanfragen und Information über neue Antworten.",
+        "3": "Legitimation: Ihre Zustimmung durch dieses Formular.",
+        "4": "Empfänger: Wir beabsichtigen nicht, Ihre Daten an Dritte weiterzugeben, es sei denn, dies ist gesetzlich vorgeschrieben.",
+        "5": "Rechte: Sie haben das Recht auf Zugang, Berichtigung, Löschung, Zuordnung und Widerspruch zu Ihren Daten. Die Kontaktdaten werden auf unseren Servern gespeichert.",
+        "6": "Zusätzliche Informationen: Zusätzliche und ausführliche Informationen zum Datenschutz finden Sie unter dem Link am Ende dieser Seite"
+    }
+}

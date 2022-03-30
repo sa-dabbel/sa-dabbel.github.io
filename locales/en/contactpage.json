@@ -1,0 +1,39 @@
+{
+    "hero": {
+        "heading": "SUPPORT",
+        "subtext": "FAQ & Product Support",
+        "text": "Ask us anything. We're here to help. If you can't find the answer that you're looking for, contact us!",
+        "cta": "Contact us"
+    },
+    "accordion": {
+        "heading": "Faq",
+        "subtext": "Frequently Asked Questions",
+        "q1": "Does every commercial space have a savings potential with the DABBEL software?",
+        "a1": "Yes, every building has a savings potential in energy consumption and CO₂ emissions of up to 40%.",
+        "q2": "What are the technical requirements?",
+        "a2": "You need a commercial building with an existing building management system (BMS), ideally you are already using: BACnet/IP or Modbus TCP.",
+        "q3": "Where do I see my savings potential with the DABBEL software?",
+        "a3": "Savings and other information can be viewed and monitored live via the dashboard.",
+        "q4": "Is there any risk for my current systems if I install DABBEL?",
+        "a4": "No. The DABBEL software is a non-invasive solution, meaning that DABBEL will always works under the current ranges of operation.",
+        "q5": "Is additional hardware required to install the DABBEL software?",
+        "a5": "Additional hardware is not required to work with the DABBEL software.",
+        "q6": "Is the security of my building endangered by the installation of DABBEL?",
+        "a6": "The DABBEL software installation is safe. The control system takes into account all security measures and operating limits.",
+        "q7": "How secure is the data transfer from the operating system to the cloud?",
+        "a7": "All data is securely transmitted to our cloud via an encrypted VPN connection. Our servers are located in Germany and the respective data is stored in compliance with DSGVO.",
+        "q8": "Can the DABBEL software detect faulty devices?",
+        "a8": "DABBEL’s dashboard supports the detection of faulty devices and displays warning messages.",
+        "q9": "Who is 'DABBY'?",
+        "a9": "DABBY is our fully autonomous AI core. It independently and continuously makes the optimal decisions to reduce your energy consumption and CO₂ emissions."
+    },
+    "placeholder": "Want to see DABBEL in action? Discover how DABBEL's AI sustainable software improves building management systems and performance through a walkthrough of the DABBEL dashboard.",
+    "rights": {
+        "1": "Responsible: DABBEL - Automation Intelligence GmbH",
+        "2": "Purpose: To respond to your request for information and inform you of new responses.",
+        "3": "Legitimacy: Your consent through this form.",
+        "4": "Receiver: We do not intend to disclose your data to third parties, unless required by law.",
+        "5": "Rights: You have the right of access, rectification, cancellation, assignment, and opposition to your data. Contact details are stored on our servers.",
+        "6": "Additional information: Additional and detailed information on data protection can be found at the link at the bottom of this page"
+    }
+}

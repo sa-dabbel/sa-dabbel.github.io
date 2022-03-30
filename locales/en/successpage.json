@@ -1,0 +1,21 @@
+{
+    "hero": {
+        "heading": "Success stories",
+        "subtext": "Our projects",
+        "text": "See for yourself, the buildings we’ve made smarter and sustainable for the future.",
+        "cta": "Contact us"
+    },
+    "storyList": {
+        "heading": "Use cases",
+        "subtext": "Success stories"
+    },
+    "placeholder": "We are on a mission to create <span class='font-medium'>greener and more intelligent buildings. Discover how our AI-driven software is improving buildings' energy efficiency,</span> management systems and performance worldwide.",
+    "rights": {
+        "1": "Responsible: DABBEL - Automation Intelligence GmbH",
+        "2": "Purpose: To respond to your request for information and inform you of new responses.",
+        "3": "Legitimacy: Your consent through this form.",
+        "4": "Receiver: We do not intend to disclose your data to third parties, unless required by law.",
+        "5": "Rights: You have the right of access, rectification, cancellation, assignment, and opposition to your data. Contact details are stored on our servers.",
+        "6": "Additional information: Additional and detailed information on data protection can be found at the link at the bottom of this page"
+    }
+}

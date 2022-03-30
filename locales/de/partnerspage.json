@@ -1,0 +1,34 @@
+{
+    "hero": {
+        "heading": "Kunden und Partner",
+        "subtext": "Nehmen Sie an unserem globalen Partnerprogramm teil",
+        "text": "DABBEL setzt sich dafür ein, die Kohlenstoffemissionen in Gebäuden weltweit zu reduzieren. Wir sind Partnerschaften mit Organisationen in der Immobilienbranche eingegangen, die unsere Ziele für eine kohlenstoffneutrale, nachhaltige Zukunft teilen.",
+        "cta": "Jetzt beitreten"
+    },
+    "pageDesc": {
+        "heading": "Programm für Klimaführer",
+        "subtext": "DABBEL bietet eine unkomplizierte Softwarelösung für gewerbliche Gebäude weltweit. Dank unserer globalen Klimaführer, die proaktiv zu einer klimaneutralen Zukunft in der Immobilienbranche beitragen, sind wir in der Lage, in weniger als 4 Wochen ein positives Ergebnis zu liefern und unseren Kunden dabei zu helfen, die ESG-Ziele auf die skalierbarste Weise zu erreichen. Gestalten Sie mit uns gemeinsam eine nachhaltige Zukunft!"
+    },
+    "benefits": {
+        "heading": "Die Vorteile",
+        "subtext": "Warum mit DABBEL zusammenarbeiten?",
+        "q1": "Mehr Möglichkeiten",
+        "a1": "Es besteht die Möglichkeit, mit Ihrer Lösung über eine offene API zu interagieren. Dies wird nicht nur eine zusätzliche Einnahmequelle erzeugen, sondern auch Upselling-Möglichkeiten bieten.",
+        "q2": "Aus der Masse hervorstechen",
+        "a2": "Bieten Sie Ihren Kunden und Mietern den ultimativen Komfort, während wir uns um die Installation kümmern. Damit heben Sie sich von Ihren Wettbewerbern ab.",
+        "q3": "Größere Wirkung",
+        "a3": "Arbeiten Sie mit uns zusammen, um die CO₂-Emissionen zu reduzieren und Ihre Umweltziele auf die skalierbarste Weise zu erreichen."
+    },
+    "definitions": {
+        "heading": "Unsere Partnerschaften",
+        "q1": "Technologie Partner",
+        "a1": "Ein Technologiepartner wie Proptechs bietet unsere Lösung als Ergänzung zu seinem Software-Service an und nutzt die Daten, die DABBEL AI liefert. Unser Technologiepartner installiert die Lösungen im Einvernehmen zwischen DABBEL und dem Kunden.",
+        "q2": "Lizensierte Partner",
+        "a2": "Ein Lizenzpartner bietet seinen Kunden unsere Lösung an. Er verfügt über einen großen Kundenstamm, der gewerbliche Gebäude in seinem Portfolio besitzt oder verwaltet. Unser Lizenzpartner verwaltet den Verkaufsprozess, während die Implementierung von DABBEL durchgeführt wird.",
+        "q3": "Installationspartner",
+        "a3": "Ein Installationspartner produziert und vertreibt Hard- und Softwarelösungen, um kommerzielle Gebäude so umzurüsten, dass sie die Anforderungen für die Implementierung von DABBEL AI erfüllen. Der Verkaufsprozess wird von DABBEL verwaltet und der Partner wird die Implementierung vor Ort vornehmen.",
+        "q4": "Vertriebspartner",
+        "a4": "Ein Vertriebspartner vermittelt uns Kunden, die große Gewerbegebäude in ihrem Portfolio haben. Der Verkaufsprozess und die Implementierung werden von DABBEL durchgeführt."
+    },
+    "placeholder": "Möchten Sie DABBEL in Aktion sehen? Entdecken Sie, wie die nachhaltige KI-Software von DABBEL die Gebäudemanagementsysteme und die Leistung verbessert, indem Sie das DABBEL-Dashboard durchlaufen."
+}

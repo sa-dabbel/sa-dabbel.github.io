@@ -1,0 +1,52 @@
+{
+    "hero": {
+        "heading": "Technologie",
+        "subtext": "DABBEL AI Software Lösung",
+        "text": "Intelligente Softwarelösung zur effizienten Steuerung von HLK-Systemen.",
+        "cta": "Angebot anfordern"
+    },
+    "divider": {
+        "heading": "Die Lösung",
+        "subtext": "DABBEL AI übernimmt die manuelle Steuerung von HLK-Systemen und trifft vorausschauende Entscheidungen auf der Grundlage von Nutzungsmustern und Wetterbedingungen."
+    },
+    "stepsCarousel": {
+        "tabs": {
+            "1": "SELBSTLERNEN UND -ANPASSUNG",
+            "2": "EINFACHE IMPLEMENTIERUNG",
+            "3": "CLOUDBASIERT & FERNGESTEUERT",
+            "4": "ECHTZEIT-STEUERUNG"
+        },
+        "headings": {
+            "1": "Selbstlernen und Selbstanpassung",
+            "2": "Einfache Implementierung",
+            "3": "Cloud-basiert und vollständig ferngesteuert",
+            "4": "Kontrolle in Echtzeit"
+        },
+        "text": {
+            "1.1": "Die KI-Software modelliert das Gebäude in Echtzeit und analysiert die Nutzungsmuster und Belegungsgewohnheiten in der ersten Woche nach der Installation.",
+            "1.2": "Unter Berücksichtigung der Nutzungsmuster und der Wetterbedingungen trifft es vorausschauende Entscheidungen für HLK-Systeme, um den Temperatursollwert zu halten.",
+            "1.3": "DABBEL AI ersetzt die manuelle Steuerung durch ein Gebäudemanagementsystem und reduziert so unnötigen Energieverbrauch und CO₂-Emissionen. Der AI ist bestrebt, den Sollwert jederzeit einzuhalten, was bedeutet, dass es keine Temperaturschwankungen gibt und ein Maximum an Komfort für die Mieter und ein gesundes Raumklima garantiert.",
+            "2.1": "DABBEL AI verbindet sich über ein VPN mit Ihrem aktuellen Netzwerk und lernt das Gebäude kennen, z. B. die Anzahl der Räume, Etagen und die vorhandenen HLK-Systeme.",
+            "2.2": "Es erkennt den Typ aller angeschlossenen Geräte und verknüpft sie auf intelligente Weise, ohne dass lange Programmierregeln erforderlich sind.",
+            "2.3": "Schließlich wird es zum Entscheidungsträger für die effiziente Steuerung von HLK-Systemen, um überschüssigen Energieverbrauch autonom zu sparen. Dieser fortschrittliche Prozess spart bis zu 40 % Energie und CO₂-Emissionen.",
+            "3.1": "DABBEL AI eliminiert den langen, stressigen und teuren Prozess der Umgestaltung von Gebäuden durch ein einfaches Software-Update ohne Hardware.",
+            "3.2": "Es ist möglich, mehrere Gebäude gleichzeitig zu verwalten und von überall darauf zuzugreifen. Die Fernunterstützung von DABBEL AI kann jederzeit ein- und ausgeschaltet werden.",
+            "4.1": "Die Kontrollmaßnahmen von DABBEL AI werden in Echtzeit angezeigt. DABBEL AI alarmiert den Benutzer, wenn die Temperatur über oder unter dem empfohlenen Sollwert liegt. Darüber hinaus erkennt es Anomalien und Unregelmäßigkeiten im Gebäude."
+        }
+    },
+    "dashboard": {
+        "heading": "Das Produkt",
+        "subtext": "DABBEL Dashboard",
+        "text": "Das DABBEL Dashboard ist Cloud-basiert und ermöglicht es Ihnen, die effiziente Steuerung von DABBEL AI in Echtzeit zu überwachen. Es ermöglicht die Überwachung, Analyse und Steuerung eines oder mehrerer Gebäude von einem einzigen Punkt aus und erkennt alle Anomalien oder Unregelmäßigkeiten innerhalb des Gebäudes.<br><br>Dadurch wird die Energieleistung des Gebäudes auf effizientere Weise verbessert und technische Ausfälle und Betriebskosten werden weiter reduziert."
+    },
+    "implementation": {
+        "heading": "Mühelose Fernimplementierung",
+        "subtext": "DABBEL ist nach einem einfachen Installationsprozess sofort einsatzbereit. In weniger als einer Woche verbindet sich DABBEL per Fernzugriff mit dem aktuellen Kommunikationsnetzwerk Ihres Gebäudes und gestaltet Ihr veraltetes BMS neu.",
+        "h1": "Identifizierung",
+        "a1": "Kommerzielle Gebäude mit BMS (idealerweise BACnet/IP)",
+        "h2": "Verbindung",
+        "a2": "DABBEL AI verbindet sich und scannt über einen VPN-Tunnel",
+        "h3": "Live gehen",
+        "a3": "Nach 7 Tagen des Lernens geht DABBEL AI in Betrieb."
+    }
+}

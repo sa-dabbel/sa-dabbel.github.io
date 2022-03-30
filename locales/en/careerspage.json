@@ -1,0 +1,58 @@
+{
+    "hero": {
+        "heading": "Careers",
+        "subtext": "We're working for people",
+        "text": "DABBEL was created to help people work in more efficient and sustainable ways.",
+        "cta": "Join our mission"
+    },
+    "imgCarousel": {
+        "heading": "The team",
+        "subtext": "Together for the planet - join our creative, open-minded, data-loving, diverse team to make a difference!"
+    },
+    "valueCarousel": {
+        "heading": "Our values",
+        "subtext": "Core principals",
+        "one": "DABBEL was created for people. It is not just an algorithm to reduce the energy in buildings. Without people, buildings do not need systems.",
+        "two": "The company was born and continues to thrive through an iterative improvement process.",
+        "three": "We are responsive listeners. We believe our employees and customers play an essential role in increasing our know-how and improving DABBEL.",
+        "four": "We have made it our mission to continue decreasing unnecessary CO₂ emissions whenever possile starting with our own."
+    },
+    "dei": {
+        "heading": "Our DEI statement",
+        "text1": "At DABBEL, we see diversity and inclusion as a foundation of our business just as our founders are three engineers with international backgrounds.",
+        "text2": "Therefore, we're committed to ensuring the working environment to be diverse, inclusive, and sustainable throughmutual respect and effort.",
+        "cta": "Our commitment"
+    },
+    "commitDialog": {
+        "heading": "We're working for people",
+        "1": "Our approach to diversity, inclusion, and sustainability",
+        "2": "DABBEL disrupts the conventional way of thinking and managing daily indoor control systems. It's our mission to make us, the people, work more efficiently and sustainably. With our values of putting people first, embracing challenges, and making sustainable decisions, we work together towards this mission.",
+        "3": "We hire, promote, and reward our employees regardless of their ethinicity, national origin, social background, religion, convictions, gender identity, age, physical and mental abilities, or sexual orientation.",
+        "4": "We believe, this guarantees the best performance of people and together we can decrease unnecessary CO₂ emissions whenever possible, starting with our own.",
+        "5": "We currently have employees from 11 countries, and we want to extend an invitation to anyone out there who wishes to grow with us. We are ready to learn more about you, just the way you are."
+    },
+    "benefits": {
+        "heading": "Benefits",
+        "subtext": "Why DABBEL?",
+        "one": "A diverse, smart and enthusiastic team",
+        "two": " A meaningful job in a Tech Startup committed to sustainability",
+        "three": "Short decision making processes and flat hierarchies",
+        "four": "The ability to take ownership and to personally grow very fast",
+        "five": "Continuous learning and development (Trainings, e-learning access)",
+        "six": "A great onboarding with the help of your own buddy",
+        "seven": "A modern and ergonomic workplace",
+        "eight": "Top equipment and all the tools you need",
+        "nine": "A selection of free drinks and food",
+        "ten": "Home office options",
+        "eleven": "Flexible working hours",
+        "twelve": "And we love playing table-tennis :)"
+    },
+    "ceoState": {
+        "heading": "Meet the founders",
+        "subtext": "CEO Statement",
+        "text": "At DABBEL we are making a real impact on CO₂ reductions. Buildings account for 40% of CO₂ emissions, and we are dedicated to decarbonizing them in a scalable way. Our culture and business are based on our core values: scalability, efficiency, and sustainability. We focus on working, learning, and growing together while remaining true to our values.",
+        "cta": "Our story"
+    },
+    "placeholder": "Without people, buildings do not need systems.",
+    "process": {}
+}

@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "heading": "DABBEL AI",
+    "subtext": "Die autonome Lösung, die Ihnen hilft, die Nachhaltigkeit für die Zukunft zu erhalten.",
+    "cta": "Weitere Informationen",
+    "wasteNrg": "Hohe Energiekosten",
+    "badHvac": "Ineffiziente HLK",
+    "emissions": "Reduzierte Emissionen",
+    "goodNrg": "Einsparung von Energiekosten",
+    "goodHvac": "Effiziente HLK"
+  },
+  "fadeLoop": {
+    "loopHeading": "Was Wir Machen",
+    "loopDesc": "<span class='font-light'>Die Software von DABBEL optimiert automatisch die Steuerung Ihres Gebäudes, verbessert die Energieeffizienz und reduziert drastisch die CO₂-Emissionen. Gestalten Sie mit DABBEL eine bessere und gesunde Zukunft.</span>",
+    "loopText1": "1-Woche Installation, keine Hardware oder Vorabkosten.",
+    "loopText2": "Die Energiesysteme arbeiten autonom und in Echtzeit.",
+    "loopText3": "Leistungsergebnisse in weniger als 30 Tage.",
+    "loopText4": "Ein grüneres und intelligenteres Gebäude für die Zukunft!"
+  },
+  "liners": {
+      "one": "Ein einfaches Software-Update zur Senkung des HLK-Verbrauchs, das 40 % Energieeinsparungen bringt - gut für die Bilanz und die Umwelt - ohne Vorlaufkosten.",
+      "two": "Was DABBEL einzigartig macht, ist unsere Edge AI Technologie. DABBEL ist in der Lage, zu lernen und sich in Echtzeit an jedes Gebäude anzupassen, um die Datenlücke zu schließen, ohne dass zusätzliche Hardware benötigt wird.",
+      "three": {
+        "a": "Höchster Komfort.",
+        "b": "Mehr Gesundheit.",
+        "c": "Glücklichere Mieter."
+    },
+    "four": "Die KI von Dabbel prognostiziert selbstständig Temperaturschwankungen und optimiert die Gebäudesteuerung, um die Luftqualität und den Komfort zu verbessern.",
+    "five": "Eine einzige Schnittstelle reicht aus, um alle Ihre Gebäude und Systeme von jedem Ort der Welt aus zu überwachen."
+  },
+  "horizontalSteps": {
+    "one": "DABBEL AI setzt lediglich voraus, dass ein Gebäude über ein bestehendes BMS-System verfügt, das mit dem Internet verbunden ist.",
+    "two": "Nach der Integration sendet das BMS-System Temperatur- und CO₂-Messwerte, die das Raumklima darstellen, an die Datenbank.",
+    "three": "Wetterdaten werden gesammelt und in die Datenbank eingespeist, um die KI-Fähigkeit von DABBEL zu verbessern und intelligente Entscheidungen zu treffen.",
+    "four": "DABBEL arbeitet mit dem vorhandenen Wissen und der Logik des BMS, speichert und organisiert alle Daten.",
+    "five": "AI-Algorithmen nutzen die gespeicherten Daten und erstellen ein virtuelles Modell des Gebäudes, das den Energieverbrauch vorhersagt und optimiert.",
+    "six": "Das optimale Raumklima wird mit den geringstmöglichen Kosten berechnet und bewegt sich innerhalb der festgelegten Sollwerte.",
+    "seven": "Die Kontrollstrategie wird ständig aktualisiert und kann auf jedem Gerät angezeigt und angepasst werden."
+  },
+  "compareCharts": {
+    "heading": "Optimales Klima für",
+    "subtext": "Mieterkomfort",
+    "desc": "Die KI von DABBEL macht die Klimasteuerung kosteneffizienter und komfortabler als ein herkömmliches Gebäudemanagementsystem es sich jemals erträumen könnte."
+  },
+  "costCalc": {
+    "heading": "Rechner für geschätzte Einsparungen",
+    "subtext": "Überzeugen Sie sich selbst",
+    "min": "Minimum",
+    "avg": "Durchschnitt",
+    "max": "Maximum",
+    "expectedSav": "Erwartete einsparungen",
+    "desc1": "Der Vorteil der Energieeffizienz sind finanzielle Einsparungen. Wenn Sie die Kohlenstoffemissionen reduzieren, senken Sie die Kosten.",
+    "desc2": "Die tatsächlichen Einsparungen können je nach Alter, Zustand, Art und Betriebsstunden des Gebäudes abweichen. Die Schätzungen beruhen auf komplexen Algorithmen in Kombination mit Marktdaten und sind nicht rechtsverbindlich.",
+    "placeholder": "Geben Sie Ihre Gebäudefläche in M2"
+  },
+  "onboarding": {
+    "heading": "Onboarding",
+    "subtext": "Erste Schritte",
+    "step1": "Wählen Sie ein geeignetes Gebäude aus dem Portfolio aus",
+    "step2": "Stellen Sie uns  Ihre Gebäudedaten zur Verfügung",
+    "step3": "Prüfen Sie das Angebot für das Gebäude",
+    "step4": "Implementierung"
+  },
+  "partners": {
+    "heading": "Was unsere Partner sagen",
+    "subtext": "Kunden und Partner",
+    "desc": "DABBEL reduziert die CO₂-Emissionen in gewerblichen Gebäuden weltweit. Lernen Sie unsere Partner kennen, die zu einer klimaneutralen und nachhaltigen Zukunft in der Immobilienbranche beitragen."
+  }  
+}

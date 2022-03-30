@@ -1,0 +1,39 @@
+{
+    "hero": {
+        "heading": "Unterstützung",
+        "subtext": "FAQ & Produktunterstützung",
+        "text": "Sie können uns alles fragen. Wir sind für Sie da. Wenn Sie die gesuchte Antwort nicht finden können, kontaktieren Sie uns!",
+        "cta": "Kontakt"
+    },
+    "accordion": {
+        "heading": "Faq",
+        "subtext": "Häufig Gestellte Fragen",
+        "q1": "Hat jede Gewerbefläche ein Einsparpotenzial mit der DABBEL-Software?",
+        "a1": "Ja. Jedes Gebäude hat ein Einsparpotenzial bei Energieverbrauch und CO₂ Ausstoß von bis zu 40 %.",
+        "q2": "Was sind die technischen Voraussetzungen für die Installation?",
+        "a2": "Sie benötigen eine Gewerbefläche mit vorhandener Gebäudeleittechnik (GLT), optimalerweise nutzen Sie bereits: BACnet/IP oder Modbus TCP.",
+        "q3": "Wo sehe ich mein Einsparpotenzial mit der DABBEL-Software?",
+        "a3": "Die Einsparungen und weitere Informationen können sie live über das Dashboard einsehen und überwachen.",
+        "q4": "Entsteht ein Risiko für das aktuelle System, wenn ich DABBEL installiere?",
+        "a4": "Nein. Die DABBEL-Software ist eine nicht-invasive Lösung, d.h. DABBEL wird immer unter den aktuellen Betriebsvorgaben arbeiten.",
+        "q5": "Wird zusätzliche Hardware zur Installation der DABBEL-Software benötigt?",
+        "a5": "Es wird keine weitere Hardware benötigt, um mit der DABBEL-Software zu arbeiten.",
+        "q6": "Ist die Sicherheit des Gebäudes durch die Installation mit DABBEL gefährdet?",
+        "a6": "Die Installation der DABBEL-Software ist sicher. Die Umsetzung erfolgt unter Berücksichtigung aller Sicherheitsmaßnahmen und Betriebsgrenzen.",
+        "q7": "Wie sicher ist die Datenübertragung vom Betriebssystem in die Cloud?",
+        "a7": "Alle Daten werden über eine verschlüsselte VPN-Verbindung sicher an unsere Cloud übermittelt. Unsere Server befinden sich in Deutschland und die jeweiligen Daten werden DSGVO-konform abgelegt.",
+        "q8": "Kann die DABBEL Software fehlerhafte Geräte erkennen?",
+        "a8": "Ja. Das Dashboard von DABBEL unterstützt die Erkennung von fehlerhaften Geräten und zeigt entsprechende Warnmeldungen auf.",
+        "q9": "Wer ist 'DABBY'?",
+        "a9": "DABBY ist unser vollkommen autonom arbeitender KI-Kern. Er trifft selbstständig und fortlaufend die optimalen Entscheidungen zur Reduzierung Ihres Energieverbrauches und CO₂ Ausstoßes."
+    },
+    "placeholder": "Möchten Sie DABBEL in Aktion sehen? Entdecken Sie, wie die nachhaltige KI-Software von DABBEL die Gebäudemanagementsysteme und die Leistung verbessert, indem Sie das DABBEL-Dashboard durchlaufen.",
+    "rights": {
+        "1": "Verantwortlich: DABBEL - Automation Intelligence GmbH",
+        "2": "Zweck: Beantwortung Ihrer Informationsanfragen und Information über neue Antworten.",
+        "3": "Legitimation: Ihre Zustimmung durch dieses Formular.",
+        "4": "Empfänger: Wir beabsichtigen nicht, Ihre Daten an Dritte weiterzugeben, es sei denn, dies ist gesetzlich vorgeschrieben.",
+        "5": "Rechte: Sie haben das Recht auf Zugang, Berichtigung, Löschung, Zuordnung und Widerspruch zu Ihren Daten. Die Kontaktdaten werden auf unseren Servern gespeichert.",
+        "6": "Zusätzliche Informationen: Zusätzliche und ausführliche Informationen zum Datenschutz finden Sie unter dem Link am Ende dieser Seite"
+    }
+}

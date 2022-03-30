@@ -1,0 +1,69 @@
+{
+    "hero": {
+        "heading": "DABBEL AI",
+        "subtext": "Decarbonising buildings in a scalable way",
+        "cta": "Find out more",
+        "wasteNrg": "High energy costs",
+        "badHvac": "Inefficient HVAC",
+        "emissions": "Reduced emissions",
+        "goodNrg": "Energy cost savings",
+        "goodHvac": "Efficient HVAC"
+    },
+    "fadeLoop": {
+        "loopHeading" : "What we do",
+        "loopDesc" : "<span class='font-light'>We help you <span class='font-medium'>lower your carbon footprint and achieve ESG goals through artificial intelligence</span> and machine learning software which is <span class='font-medium'>seamlessly integrated into existing Building Management Systems</span> via Facilities Managers.</span>",
+        "loopText1" : "1-week installation, no hardware or upfront costs.",
+        "loopText2" : "Energy systems operate autonomously and in real-time.",
+        "loopText3" : "Performance results in less than 30 days.",
+        "loopText4" : "A greener and more intelligent building for the future!"
+    },
+    "liners": {
+        "one": "With no <span class='font-medium'>upfront cost</span>, a <span class='font-medium'>simple software update</span> to reduce your HVAC consumption netting 40% energy savings - <span class='font-medium'>good for the bottom line and the environment.</span>",
+        "two": "What makes DABBEL unique is our <span class='font-medium'>Edge AI technology.</span> DABBEL is able to learn and adapt to any building in real time <span class='font-medium'>covering the data gap</span> without the need for additional hardware.",
+        "three": {
+            "a": "Superior comfort.",
+            "b": "Better health.",
+            "c": "Happier tenants."
+        },
+        "four": "DABBEL’s AI autonomously forecasts temperature fluctuations and optimizes building controls for improved air quality and comfort.",
+        "five": "One interface is all you need to <span class='font-medium'>monitor all of your buildings and systems, from anywhere</span> in the world."
+    },
+    "horizontalSteps": {
+        "one": "DABBEL AI <span class='font-medium'>only requires</span> that a building have an existing <span class='font-medium'>BMS system that is connected to the web.</span>",
+        "two": "Once integrated, the <span class='font-medium'>BMS system sends temperature and CO₂ readings</span> representing the indoor climate to the database.",
+        "three": "Weather data is collected and funnelled into the database to <span class='font-medium'>improve DABBEL's AI ability to predict and make smart decisions.</span>",
+        "four": "DABBEL <span class='font-medium'>works with the existing knowledge and logic of the BMS</span>, storing and organizing all the data.",
+        "five": "AI algorithms use the stored data and <span class='font-medium'>create a virtual model of the building, predicting and optimizing energy usage.</span>",
+        "six": "The <span class='font-medium'>optimal indoor climate</span> is calculated at the <span class='font-medium'>lowest possible cost</span> and operates <span class='font-medium'>within the established set points.</span>",
+        "seven": "The control strategy is <span class='font-medium'>continuously updated</span> and can be <span class='font-medium'>viewed and adjusted on any device.</span>"
+    },
+    "compareCharts": {
+        "heading": "Optimal climate",
+        "subtext": "Tenant comfort",
+        "desc": "DABBEL’s AI <span class='font-medium'>makes climate control more cost-effective and more comfortable</span> than a traditional building management system could ever dream to."
+    },
+    "costCalc": {
+        "heading": "Estimated savings calculator",
+        "subtext": "See for yourself",
+        "min": "Minimum",
+        "avg": "Average",
+        "max": "Maximum",
+        "expectedSav": "Expected savings",
+        "desc1": "The benefit of energy efficiency is financial savings. When you reduce carbon emissions, you lower costs.",
+        "desc2": "Actual savings may differ based on the age, condition, type, and operational hours of the building. Estimations are based on complex algorithms combined with market data and are not legally binding.",
+        "placeholder": "Enter your building area in M2"
+    },
+    "onboarding": {
+        "heading": "Onboarding",
+        "subtext": "Getting started",
+        "step1": "Select a suitable building from portfolio",
+        "step2": "Provide building data",
+        "step3": "Review the quotation of the building",
+        "step4": "Implementation"
+    },
+    "partners": {
+        "heading": "What our partners are saying",
+        "subtext": "Clients & partners",
+        "desc": "DABBEL is reducing CO₂ emissions in commercial buildings worldwide. Meet our partners, contributing to a carbon neutral & sustainable future in the real estate industry."
+    }  
+}

@@ -1,0 +1,52 @@
+{
+    "hero": {
+        "heading": "Technology",
+        "subtext": "DABBEL AI Software solution",
+        "text": "Smart software solution to control HVAC systems efficiently.",
+        "cta": "Request a quote"
+    },
+    "divider": {
+        "heading": "The solution",
+        "subtext": "DABBEL AI <span class='font-medium'>takes over manual control of HVAC systems</span> and <span class='font-medium'>makes predictive decisions</span> based on usage patterns and weather conditions."
+    },
+    "stepsCarousel": {
+        "tabs": {
+            "1": "SELF LEARNING AND ADAPTING",
+            "2": "EASY IMPLEMENTATION",
+            "3": "CLOUD BASED & REMOTE",
+            "4": "REAL TIME CONTROL"
+        },
+        "headings": {
+            "1": "Self-Learning and Self-Adapting",
+            "2": "Easy Implementation",
+            "3": "Cloud-Based & Completely Remote",
+            "4": "Real-Time Control"
+        },
+        "text": {
+            "1.1": "The <span class='font-medium'>AI software models the building in real-time</span>, analyzing the usage patterns and occupancy habits over the first week after installation.",
+            "1.2": "Taking the usage patterns and weather conditions into account, <span class='font-medium'>it makes predictive decisions for HVAC systems to maintain the temperature set-point.</span>",
+            "1.3": "DABBEL AI <span class='font-medium'>replaces the manual control from a Building Management System, reducing unnecessary energy consumption and CO₂ emissions.</span> The AI strives to maintain the set-point at all times, which means <span class='font-medium'>no fluctuations in temperatures and guarantees maximum tenant comfort</span> and a healthy indoor environment.",
+            "2.1": "<span class='font-medium'>DABBEL AI connects to your current network via a VPN and learns about the building,</span> such as the number of rooms, floors and the existing HVAC systems.",
+            "2.2": "<span class='font-medium'>It recognizes the type of all connected devices and intelligently links them without the need for long programming rules.</span>",
+            "2.3": "Finally, <span class='font-medium'>it becomes the decision-maker to control HVAC systems in an efficient way to save excess energy consumption autonomously.</span> This advanced process saves up to 40% of energy and CO₂ emissions.",
+            "3.1": "<span class='font-medium'>DABBEL AI eliminates the long, stressful and expensive process of reshaping buildings by using a simple software update without hardware.</span>",
+            "3.2": "It is possible to manage multiple buildings at the same time and access them from anywhere. <span class='font-medium'>Remote assistance of DABBEL AI can be turned on/off anytime.</span>",
+            "4.1": "Control measures of DABBEL AI are reflected in real-time. <span class='font-medium'>DABBEL AI alerts the user if the temperature is above or below the recommended set point. In addition, it detects anomalies and irregularities in the building.</span>"
+        }
+    },
+    "dashboard": {
+        "heading": "The product",
+        "subtext": "DABBEL Dashboard",
+        "text": "<span class='font-medium'>The DABBEL dashboard is cloud-based, allowing you to monitor the efficient control of DABBEL AI in real-time.</span> It enables monitoring, analysis, and control of one or more buildings from a single point and detects any anomalies or irregularities within the building. <br><br>This improves the building's energy performance in a more efficient way and further <span class='font-medium'>reduces technical failures and operating costs.</span>"
+    },
+    "implementation": {
+        "heading": "Effortless remote implementation",
+        "subtext": "DABBEL is ready to use following a simple installation process. In <span class='font-medium'>less than one week,</span> DABBEL connects remotely to your building's current communication network & <span class='font-medium'>reshapes your outdated BMS.</span>",
+        "h1": "Identification",
+        "a1": "Commerical buildings with BMS (ideally BACnet/IP)",
+        "h2": "Connection",
+        "a2": "DABBEL AI connects and scans via a VPN tunnel",
+        "h3": "Go live",
+        "a3": "After 7 days of learning, DABBEL AI goes live."
+    }
+}

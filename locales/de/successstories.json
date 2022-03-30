@@ -1,0 +1,27 @@
+{
+    "storyList": {
+        "heading": "Anwendungsfälle",
+        "subtext": "Erfolgsgeschichten"
+    },
+    "placeholder": "Nach der KI-Integration von DABBEL sind Energieverbrauch und Gesamtkosten des Gebäudes deutlich gesunken. Neben einer geringeren CO₂-Bilanz hatte das Gebäude ein gesünderes Innenraumklima.",
+    "one": {
+        "title": "VINCI Facilities - School Bergneustadt",
+        "details": "Bei diesem Projekt mussten 2 wichtige Faktoren berücksichtigt werden. Erstens die Reduzierung der Energie- und CO₂-Emissionen, um die Ziele des Kunden einer klimaneutralen Zukunft und der Kosten zu erfüllen, und zweitens die CO₂-Werte im Innenraum, um eine gesunde Umgebung für Schüler, Lehrer und Mitarbeiter zu schaffen."
+    },
+    "two": {
+        "title": "Romulus - 30 Cannon Street",
+        "details": "Tradition trifft Moderne. Als Mitglied des National Heritage of England verfügt 30 Cannon Street in London nun über das AI-Gebäudemanagementsystem von DABBEL und ist damit ökologisch nachhaltig." 
+    },
+    "three": {
+        "title": "Sonar Real Estate - Quadra",
+        "details": "Um einen Beitrag zu den Klimazielen der Europäischen Union zu leisten, hat Sonar Real Estate die CO₂-Emissionen mithilfe des KI-Gebäudemanagementsystems von DABBEL reduziert. Das Gebäude konnte ohne zusätzliche Hardware die Energiekosten um 28 % senken und fast drei Tonnen Kohlenstoffemissionen einsparen."
+    },
+    "four": {
+        "title": "ZURZACH Care AG - Reha Clinic",
+        "details": "Das gemeinsame Projekt mit der Zurzach Care AG in der Reha-Klinik Bad Zurzach, das zu den Top 10 der digitalen Immobilienprojekte in der Schweiz zählt, steigert das Wohlbefinden der Patienten und reduziert gleichzeitig den Energieverbrauch und die Kosten."
+    },
+    "five": {
+        "title": "Gelsenwasser AG - White House",
+        "details": "DABBEL AI hat die Gelsenwasser AG, ein umweltbewusstes Unternehmen, dabei unterstützt, den Energieverbrauch in zwei ihrer Gebäude zu senken und damit ihre unternehmerischen Ambitionen in Einklang mit ihrer Überzeugung von Nachhaltigkeit zu bringen."
+    }
+}

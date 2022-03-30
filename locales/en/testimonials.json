@@ -1,0 +1,27 @@
+{
+    "one": {
+        "name": "Alexander Woolf",
+        "post": "Strategy Director",
+        "text": "“At Romulus, It is important to us that we can deliver a world class experience to our tenants, their staff, and any visitors to our buildings while also helping reduce energy use and our carbon footprint. With the help from DABBEL's AI software solution, we are able to keep the comfort at 100% while at the same time, saving an average of 26% of the HVAC energy consumption in our building at 30 Cannon Street in London.”"
+    },
+    "two": {
+        "name": "Holger Hosang",
+        "post": "Managing Partner",
+        "text": "“Sonar Real Estate acts sustainably and thus contributes to achieving the EU environmental goals. For example, since June 2021 we have reduced the energy costs for heating, ventilation and air conditioning by around 28% by using the AI software from DABBEL in the 'Quadra' office building in Frankfurt, which we manage as asset managers. In addition, 2.7t of CO”"
+    },
+    "three": {
+        "name": "Stefan Rütimann",
+        "post": "Head of Corporate Facility & Real Estate Management",
+        "text": "“Health, environment, and sustainable solutions are an important par t of our ZURZACH - Care - Group. In order to increase the well-being of our patients and at the same time reducing energy consumption in our buildings, we became aware of the company DABBEL. Thanks to the dynamic control of our energy systems, we were able to reduce consumption by up to 20% after just one month. This not only saves us money but also takes an important step towards sustainability.”"
+    },
+    "four": {
+        "name": "Christian Ochßner",
+        "post": "Head of the Building Technology Department",
+        "text": "“Thanks to the dynamic control of our energy systems, we were able to reduce consumption by up to 20% after just one month. Now there are already plans to install this type of technology on two or three other sites. Between now and 2022, some 80 further buildings in Germany should benefit from the system.”"
+    },
+    "five": {
+        "name": "Frank Schimmel",
+        "post": "Project Manager",
+        "text": "“Thanks to the AI solution from DABBEL, we were able to reduce our energy consumption and CO₂ emissions between 22 % and 35 % for both buildings. This fully conforms with our aspirations as an environmental company. We pursue climate goals with our own properties, but also with the range of services we offer our customers in the field of automation systems for buildings and energy systems.”"
+    }
+}

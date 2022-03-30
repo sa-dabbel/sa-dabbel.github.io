@@ -1,0 +1,63 @@
+{
+    "hero": {
+        "heading": "News & events",
+        "subtext": "What is being said about DABBEL?",
+        "text": "Checkout the latest stories featuring DABBEL and it's incredible AI building management system.",
+        "cta": "Upcoming events",
+        "h1": "Innovation award for intelligent building control",
+        "h2": "GELSENWASSER and DABBEL conclude a cooperation agreement",
+        "h3": "Tech Crunch: Dabbel gets $4.4M to cut CO₂ by automating HVAC control for commercial buildings",
+        "h4": "Sense: We’ve partnered with DABBEL on our joint mission to fight the climate crisis",
+        "h5": "Immobilien Zeitung: AI takes over the boiler room"
+    },
+    "stories": {
+        "heading": "Articles",
+        "subtext": "Latest stories",
+        "h1": "How DABBEL AI software connects to the buildings",
+        "h2": "Checklist for the Use of AI in Building Management",
+        "h3": "DABBEL and VINCI Facilities Germany together achieved 30% savings in CO₂ emissions with intelligent software solution in buildings"
+    },
+    "news": {
+        "heading": "Press",
+        "subtext": "DABBEL in the news",
+        "read": "Read more",
+        "h1": "Immobilien Zeitung: AI takes over the boiler room",
+        "h2": "Realasset Insight: Making existing stock green should be the top priority",
+        "h3": "Main Incubator: PropTech Start Up DABBEL raises €3.6m in a financing round",
+        "h4": "Finanzwelt: Making the building portfolio climate-fit with artificial intelligence",
+        "h5": "Enechange Insight: Presenting: our second 2021 cohort"
+    },
+    "pressFaq": {
+        "one": {
+            "q": "What does DABBEL stand for?",
+            "a1": "Climate change concerns us all. To combat it, DABBEL’s mission has been to develop the most scalable, cost-efficient, sustainable software-based building automation available, and to get it into as many commercial buildings worldwide as quickly as possible. Our system is smart; it is designed to reduce costs, save energy and keep occupants more comfortable than a traditional system. This is the BMS of the future."
+        },
+        "two": {
+            "q": "What differentiates DABBEL from the competition?",
+            "a1": "We operate a business model around trust and efficiency. Our software can be installed remotely in less than a week with no upfront cost, and it can be canceled monthly. By leveraging our short implementation time and high technological standards, customers may see results in the first week and a payoff in the first month. Customers are informed monthly about the CO₂ emissions saved.",
+            "a2": "The installation and maintenance of any additional hardware in a building is eliminated. This is a cloud-based add-on software solution that can be operated remotely. All that is required is an internet connection, VPN connection and access to the building’s main communication protocol.",
+            "a3": "Our centrally updated software, DABBY, once implemented is self-learning and adapts independently to the people and thermodynamics of the building.",
+            "a4": "A main hurdle with creating and maintaining energy efficient buildings is upfront costs, lengthy installation and little planning certainty. This is where DABBEL comes in."
+        },
+        "three": {
+            "q": "In which strategic direction should the company develop?",
+            "a1": "In the long term, our software will be used worldwide. Now, we are mainly represented in the DACH region and in Great Britain, with customers reaching as far as the USA, Australia, New Zealand and China. We do not set ourselves any limits, as the reduction of CO₂ emissions in the building sector benefits us all.",
+            "a2": "Win-win-win situation. Our software, which can be used anywhere in the world across a whole portfolio of buildings, enables customers to save money, helping them to reduce their environmental footprint.",
+            "a3": "What about the rest of the buildings? There are buildings that are limited in their use of the potential of technology already in place. To put this into perspective, 70% of the variables a building generates are not recognised, even by building control systems. Wasted potential aside, we talk to building owners about optimization to help their buildings negate inefficiencies by connecting them with industry partners. The end goal is to create an ecosystem of building optimization united against climate change.",
+            "a4": "Future goals include predicting the future hubs of building behavior and using data to predict the energy demand of an entire building stock — invaluable data for energy supplier negotiations."
+        },
+        "four": {
+            "q": "Why is such a system not already standard?",
+            "a1": "Simply put, convenience and tradition. Until a few years ago, energy was extraordinarily cheap and climate change was thought of as a long-term problem. Both of these things have changed. The time to act is now.",
+            "a2": "Still, little about the BMS has evolved over the decades without external influences like climate change. If something is working, it does not need fixing; on-and-off switches continue to function. But now there is pressure to change. The market is dominated by traditional BMS providers whose profitable technology is not flexible enough to change. We have recognised this and are optimizing existing solutions."
+        },
+        "five": {
+            "q": "How many customers does DABBEL have?",
+            "a1": "“Customers” is not the right term. In our line of work, “square meters managed by our software” makes more sense. At the beginning of 2021, we had 70,000 square meters. Twelve months later, we had just under one million square meters. By the end of 2022, we want to manage five million square meters."
+        },
+        "six": {
+            "q": "How many employees does DABBEL have?",
+            "a1": "We are 20 employees strong. Half of us are engineers and software developers. The other half take care of marketing and sales. In 2022, we expect the number of permanent employees to nearly double."
+        }
+    }
+}
